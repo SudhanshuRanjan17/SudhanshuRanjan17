@@ -95,6 +95,11 @@ My vision: to build intelligent systems that solve real-world problems at scale 
 ---
 
 <!-- ✅ Recommended extra GitHub feature: top languages card -->
+---
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuRanjan17&layout=compact&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanshuRanjan17&layout=compact&theme=radical&hide_border=true"
+    alt="Top languages"
+  />
 </p>
