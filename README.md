@@ -1,27 +1,193 @@
-# 💫 About Me:
-SUDHANSHU RANJAN<br>Muzaffarpur, Bihar 843104<br>+91-9304781967 | sudhanshuranjan8986@gmail.com | linkedin.com/in/sudhanshuranjan89 | https://github.com/SudhanshuRanjan17<br>SUMMARY<br>BCA (Data Science) undergraduate at Lovely Professional University with hands-on experience across applied AI, data analysis, and full￾stack fundamentals. Shipped projects spanning biometric payment security, IoT automation, and R-based data analysis; completed a <br>Data Science internship and a 100+ day problem-solving streak on LeetCode.<br>EDUCATION<br>Lovely Professional University — BCA (Data Science), CGPA: 7.8, Phagwara, Punjab 2023 – 2026<br>St. Joseph Sr. Sec. School — 12th, Science, 67%, Muzaffarpur, Bihar 2020 – 2022<br>DAV Public School — 10th, Science, 76.04%, Muzaffarpur, Bihar 2019 – 2020<br>EXPERIENCE<br>Data Science Intern — The Developers Arena (Remote) Dec 2025 – Mar 2026<br>• Completed a 3-month project-based Data Science internship: structured training modules, applied project work, and periodic <br>performance evaluations.<br>TRAINING<br>C++ Maestro Trainee — Centre for Professional Enhancement, LPU Jun – Jul 2025<br>• Completed “Advanced Data Structures: Hands-On Training,” covering trees, graphs, heaps, and hashing with real-world applications.<br>• Strengthened algorithm design, recursion, and complexity analysis through hands-on coding exercises; achieved Grade A (90%+).
+🌌 SUDHANSHU RANJAN | Data Science • AI • IoT
+<!-- Animated neon header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,30:172554,65:6D28D9,100:06B6D4&text=SUDHANSHU%20RANJAN&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Turning%20Data%20Into%20Intelligence&descAlignY=58&descSize=17&animation=twinkling&section=header" alt="Animated neon profile header" width="100%" /> </p> <p align="center"> <a href="https://github.com/SudhanshuRanjan17"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Data+Science+%7C+Artificial+Intelligence;Python+%7C+Machine+Learning+%7C+Analytics;IoT+Innovator+%7C+Problem+Solver;Building+Projects+That+Solve+Real+Problems;Learn.+Build.+Analyze.+Improve." alt="Animated typing introduction" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SudhanshuRanjan17&style=for-the-badge&color=6D28D9&label=Profile%20Views" alt="Profile views" /> <img src="https://img.shields.io/github/followers/SudhanshuRanjan17?style=for-the-badge&color=0891B2&label=FOLLOWERS" alt="GitHub followers" /> <img src="https://img.shields.io/github/stars/SudhanshuRanjan17/SudhanshuRanjan17?style=for-the-badge&color=7C3AED&label=PROFILE%20STARS" alt="GitHub stars" /> </p> <p align="center"> <b>🚀 Explore my projects. Discover my journey. Let's build something meaningful.</b> </p>
+🧬 About Me
+<table> <tr> <td width="58%" valign="top">
+👨‍💻 The Person Behind the Code
 
+I'm Sudhanshu Ranjan, a BCA graduate-in-progress specializing in Data Science at Lovely Professional University.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/build_with_sudhanshu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/build_with_sudhanshu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-ranjan89/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshuranjan8986@gmail.com) 
+I'm interested in turning raw data into meaningful insights, building intelligent applications, exploring AI and machine learning, and connecting software with real-world hardware through IoT.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SudhanshuRanjan17&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SudhanshuRanjan17&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SudhanshuRanjan17&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My approach is simple: learn deeply, build consistently, and solve problems that matter.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SudhanshuRanjan17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🎓 Education: BCA — Data Science
+📍 From: Muzaffarpur, Bihar, India
+🧠 Core interests: Data Science, AI/ML, analytics and IoT
+🐍 Preferred language: Python
+💻 Also work with: C++, R, SQL and web technologies
+🎯 Current focus: Strong fundamentals, practical projects and problem-solving
+🤝 Open to: Learning opportunities, meaningful collaborations and project discussions
+</td> <td width="42%" valign="top">
+⚡ Quick Facts
+Area	Details
+Primary focus	Data Science
+Programming	Python, C++, R
+Analytics	Data cleaning, EDA, visualization
+AI/ML	Exploring applied machine learning
+Hardware	Arduino, sensors, NodeMCU
+Databases	SQL and relational data
+Tools	Git, GitHub, Jupyter, VS Code
+Philosophy	Build to learn
+</td> </tr> </table>
+🎯 Currently Vibing
+<p align="center"> <img src="https://img.shields.io/badge/LEARNING-Machine%20Learning-7C3AED?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Learning machine learning" /> <img src="https://img.shields.io/badge/BUILDING-Data%20Projects-0891B2?style=for-the-badge&logo=python&logoColor=white" alt="Building data projects" /> <img src="https://img.shields.io/badge/EXPLORING-IoT%20%26%20AI-059669?style=for-the-badge&logo=arduino&logoColor=white" alt="Exploring IoT and AI" /> </p>
+🔍 Strengthening my understanding of data analysis and machine learning.
+🛠️ Developing practical projects that demonstrate real skills.
+📊 Improving data storytelling and visualization.
+🧩 Practicing algorithms and writing cleaner, more efficient code.
+🌱 Continuously learning new technologies and improving existing projects.
+🛠️ Tech Arsenal
+<details open> <summary><b>🐍 Programming Languages</b></summary> <br /> <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> </p> </details> <details open> <summary><b>📊 Data Science, Analytics & Visualization</b></summary> <br /> <p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> <img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" alt="RStudio" /> </p> </details> <details open> <summary><b>🤖 AI, Machine Learning & Algorithms</b></summary> <br /> <p> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data structures and algorithms" /> <img src="https://img.shields.io/badge/Regression%20Analysis-7C3AED?style=for-the-badge" alt="Regression analysis" /> <img src="https://img.shields.io/badge/Clustering-0891B2?style=for-the-badge" alt="Clustering" /> </p> </details> <details> <summary><b>🌐 Web Development & Databases</b></summary> <br /> <p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" /> </p> </details> <details> <summary><b>🔌 IoT, Hardware & Embedded Systems</b></summary> <br /> <p> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /> <img src="https://img.shields.io/badge/NodeMCU-0A7E8C?style=for-the-badge" alt="NodeMCU" /> <img src="https://img.shields.io/badge/Sensors-475569?style=for-the-badge" alt="Sensors" /> <img src="https://img.shields.io/badge/Microcontrollers-334155?style=for-the-badge" alt="Microcontrollers" /> </p> </details> <details> <summary><b>⚙️ Developer Tools & Platforms</b></summary> <br /> <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /> </p> </details>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+♻️ Smart Waste Management System
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+An IoT-based waste management concept designed to support automated waste detection and segregation.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SudhanshuRanjan17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Highlights
 
----
-[![](https://komarev.com/ghpvc/?username=SudhanshuRanjan17&icon=0&color=0)](https://visitcount.itsvg.in)
+Ultrasonic and proximity sensors
+Arduino-based control
+Servo and motor integration
+Automated waste-handling concept
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Stack: Arduino • Sensors • Embedded Systems
+
+</td> <td width="50%" valign="top">
+📈 IPL Data Analysis
+
+A data analysis project exploring IPL statistics, relationships and regression-based insights using R.
+
+Highlights
+
+Exploratory data analysis
+Statistical relationships
+Regression analysis
+Data visualization
+
+Stack: R • ggplot2 • Statistics
+
+</td> </tr> <tr> <td width="50%" valign="top">
+📊 Data Science Jobs in India
+
+A descriptive analytics project focused on understanding the data science job landscape.
+
+Highlights
+
+Data cleaning and exploration
+Visualization and summaries
+Clustering and analytical methods
+Employment-market insights
+
+Stack: Python/R • Analytics • Visualization
+
+</td> <td width="50%" valign="top">
+🅿️ Smart Parking System
+
+An IoT project exploring connected-device concepts for parking management.
+
+Highlights
+
+NodeMCU-based development
+Sensor-driven monitoring
+Hardware and software integration
+Smart infrastructure concept
+
+Stack: NodeMCU • IoT • Sensors
+
+</td> </tr> <tr> <td width="50%" valign="top">
+📝 To-Do List Application
+
+A task-management application using linked-list concepts and a web-based interface.
+
+Highlights
+
+Data structure implementation
+Task management logic
+HTML and CSS interface
+Practical problem-solving
+
+Stack: C++ • Linked List • HTML • CSS
+
+</td> <td width="50%" valign="top">
+💳 AutoPay — Concept Project
+
+A proposed contactless payment concept exploring biometric verification and AI-assisted security.
+
+Highlights
+
+Face and iris recognition concept
+Security-focused user experience
+Contactless payment workflow
+Privacy and threat-model considerations
+
+Stack: Concept Design • AI • Security
+
+</td> </tr> </table> <p align="center"> <a href="https://github.com/SudhanshuRanjan17?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /> </a> </p>
+📊 GitHub Analytics
+<p align="center"> <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudhanshuRanjan17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" /> <img height="180" src="https://streak-stats.demolab.com?user=SudhanshuRanjan17&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </p> <p align="center"> <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SudhanshuRanjan17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" /> </p>
+📈 GitHub Contribution Activity
+<p align="center"> <a href="https://github.com/SudhanshuRanjan17"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudhanshuRanjan17&bg_color=0D1117&color=00E5FF&line=6D28D9&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true" alt="GitHub Activity Graph" width="100%" /> </a> </p>
+🏆 GitHub Achievements
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=SudhanshuRanjan17&theme=tokyonight&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" /> </a> </p>
+🐍 Contribution Snake
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudhanshuRanjan17/SudhanshuRanjan17/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudhanshuRanjan17/SudhanshuRanjan17/output/github-contribution-grid-snake.svg" /> <img src="https://raw.githubusercontent.com/SudhanshuRanjan17/SudhanshuRanjan17/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" /> </picture> </p>
+🎓 Education & Experience
+🎓 Education
+
+Lovely Professional University — Phagwara, Punjab
+
+Degree: Bachelor of Computer Applications (BCA)
+Specialization: Data Science
+CGPA: 7.8
+Period: 2023–2026
+
+St. Joseph Sr. Sec. School — Muzaffarpur, Bihar
+
+Class XII — Science
+Score: 67%
+Period: 2020–2022
+
+DAV Public School — Muzaffarpur, Bihar
+
+Class X
+Score: 76.04%
+Period: 2019–2020
+💼 Experience
+
+Data Science Intern — The Developers Arena
+
+Remote | December 2025 – March 2026
+
+Completed a three-month, project-based Data Science internship.
+Worked through structured training modules and applied project tasks.
+Participated in periodic performance evaluations.
+📚 Training
+
+C++ Maestro Trainee — Centre for Professional Enhancement, LPU
+
+June – July 2025
+
+Completed Advanced Data Structures: Hands-On Training.
+Studied trees, graphs, heaps and hashing.
+Practiced algorithm design, recursion and complexity analysis.
+Achieved Grade A (90%+), as reported.
+🧠 Problem-Solving Mindset
+
+I believe strong developers don't just write code; they understand the problem, evaluate trade-offs, test their assumptions and keep improving.
+
+🧩 Data structures and algorithms
+📐 Time and space complexity
+🐍 Python-first coding practice
+🧪 Debugging and testing
+📊 Evidence-driven analysis
+📖 Continuous learning
+<p align="center"> <img src="https://img.shields.io/badge/MINDSET-Think%20%7C%20Build%20%7C%20Test%20%7C%20Improve-0891B2?style=for-the-badge" alt="Think, build, test, improve" /> </p>
+🎲 A Few Fun Facts
+<table> <tr> <td align="center" width="25%"> <h3>🐍</h3> <b>Python First</b> <br /> I prefer Python for most coding challenges. </td> <td align="center" width="25%"> <h3>📊</h3> <b>Data Curious</b> <br /> I enjoy finding patterns hidden in data. </td> <td align="center" width="25%"> <h3>🔌</h3> <b>Hardware + Code</b> <br /> I like exploring how software interacts with physical devices. </td> <td align="center" width="25%"> <h3>🚀</h3> <b>Project Driven</b> <br /> I learn by building, testing and refining. </td> </tr> </table>
+💬 A Thought to Code By
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" width="100%" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://github.com/SudhanshuRanjan17"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> <a href="https://www.linkedin.com/in/sudhanshu-ranjan89/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /> </a> <a href="https://instagram.com/build_with_sudhanshu"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /> </a> <a href="https://facebook.com/build_with_sudhanshu"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" /> </a> <a href="mailto:sudhanshuranjan8986@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /> </a> </p> <p align="center"> <b>Have an interesting idea, a data problem or a project worth building?</b> <br /> Feel free to connect. Let's learn, collaborate and create something useful. </p>
+🌊 Keep Exploring
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:050816&height=120&section=footer" alt="Animated neon footer" width="100%" /> </p> <p align="center"> <i>Thanks for visiting my profile — the journey from data to discovery continues.</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SudhanshuRanjan17&style=flat-square&color=6D28D9&label=You%20Visited" alt="Profile visitor counter" /> </p>
